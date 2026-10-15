@@ -16,9 +16,11 @@ Projekt `prva_aplikacija` izrađen je pomoću Flutter okvira i programskog jezik
 
 Projekt sadrži:
 - `lib/main.dart` – glavni izvorni kod Flutter aplikacije.
+- `lib/brojac.dart` – Dart datoteka koja sadrži implementaciju brojača.
 - `bin/provjera.dart` – Dart program za provjeru osnovnih jezičnih konstrukcija.
+- `README.md` – dokumentacija projekta s opisom aplikacije, korištenim tehnologijama i odgovorima na pitanja.
+- `dokazi/` – direktorij koji sadrži dokaze o radu na projektu, uključujući snimku zaslona aplikacije i tekstualne datoteke s rezultatima provjera.
 - `pubspec.yaml` – konfiguraciju projekta i njegove ovisnosti.
-
 
 ### Samostalne izmjene
 
